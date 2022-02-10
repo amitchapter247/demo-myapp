@@ -26,7 +26,7 @@
     "history": "4.9.0",
     "install": "^0.13.0",
     "js-object-validation": "1.0.16",
-    "node-sass": "4.12.0",
+    "node-sass": "7.0.0",
     "query-string": "6.8.1",
     "react": "16.8.6",
     "react-bootstrap": "1.0.0-beta.9",
